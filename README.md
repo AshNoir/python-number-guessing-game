@@ -68,7 +68,7 @@ Make sure Python is installed on your system.
 
 Clone the repository:
 
-git clone https://github.com/YOUR-USERNAME/python-number-guessing-game.git
+git clone https://github.com/AshNoir/python-number-guessing-game.git
 
 Go into the project directory:
 
